@@ -1,0 +1,65 @@
+body {
+    background-color: #f7dada;
+    font-family: Arial;
+}
+
+.main {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.raider {
+    width: 100px;
+    height: 100px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.schedule {
+    font-size: 18px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    height: 45px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+
+.time {
+    width: 70px;
+    background-color: white;
+}
+
+.white {
+    background-color: white;
+}
+
+.purple {
+    background-color: purple;
+    color: yellow;
+}
+
+.green {
+    background-color: green;
+    color: yellow;
+}
+
+.blue {
+    background-color: rgb(24, 200, 212);
+    color: gray;
+}

@@ -1,0 +1,129 @@
+body {
+    background-color: #fafafa;
+    font-family: Arial;
+}
+
+.main {
+    display: flex;
+    width: 900px;
+    margin: 50px auto;
+    align-items: center;
+}
+
+.left {
+    width: 450px;
+}
+
+.left img {
+    width: 400px;
+}
+
+.right{
+    width:410px;
+}
+
+.box1 {
+    width: 350px;
+    text-align: center;
+    border:1px solid #b3aeae;
+    padding:30px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 45px;
+}
+
+input {
+    width: 280px;
+    padding: 10px;
+    margin: 5px;
+    border:1px solid #ddd;
+}
+
+.or{
+    display:flex;
+    align-items: center;
+    gap:10px;
+}
+
+.or hr{
+    width:100px;
+    border:none;
+    border-top: 1px solid #ddd;
+}
+
+.or p{
+    margin:0;
+}
+
+button {
+    width: 300px;
+    padding: 9px;
+    margin: 5px;
+    background-color: #4aa3df;
+    color: white;
+    border: none;
+}
+
+h4 {
+    color: #385185;
+}
+
+.facebook {
+    width: 18px;
+    height: 18px;
+
+}
+
+small {
+    color: #385185;
+}
+
+.box2{
+    width:410px;
+    border:1px solid #b3aeae;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gettheapp{
+    text-align: center;
+}
+b {
+    color: #0095f6;
+}
+
+.apps {
+    display:flex;
+    justify-content: center;
+    gap:10px;
+}
+
+.store{
+    width:150px;
+    height:40px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.store img{
+    width:55px;
+    height:40px;
+}
+
+.store p{
+    color:white;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+    margin-top: 50px;
+}

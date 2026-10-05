@@ -1,0 +1,9 @@
+.thumbnail {
+  height: 225px;
+  background-color: #55595c;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
